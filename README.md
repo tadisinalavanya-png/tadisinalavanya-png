@@ -65,10 +65,6 @@ drwxr-xr-x  30% reduction in scope ambiguity through requirements elicitation
 
 ## 💼 PROFESSIONAL IDENTITY
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ```typescript
 class BusinessAnalyst implements Expert {
   private identity = {
@@ -77,7 +73,7 @@ class BusinessAnalyst implements Expert {
     location: "Illinois, USA",
     experience: "4+ years"
   };
-  
+
   private coreExpertise: string[] = [
     "Requirements Elicitation & Analysis",
     "Business Process Optimization",
@@ -86,7 +82,7 @@ class BusinessAnalyst implements Expert {
     "Stakeholder Management",
     "UAT Coordination & Validation"
   ];
-  
+
   getCurrentFocus(): string {
     return "Delivering data-driven solutions " +
            "across financial services and " +
@@ -94,9 +90,6 @@ class BusinessAnalyst implements Expert {
   }
 }
 ```
-
-</td>
-<td width="50%" valign="top">
 
 ```python
 class DataDrivenSolutions:
@@ -108,7 +101,7 @@ class DataDrivenSolutions:
             'databases': ['SQL Server', 'MySQL', 'Oracle'],
             'cloud': ['AWS', 'Microsoft Azure']
         }
-        
+
     def deliver_impact(self):
         return {
             'fraud_detection_improvement': '22%',
@@ -118,10 +111,6 @@ class DataDrivenSolutions:
             'defect_reduction': '28%'
         }
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -220,37 +209,92 @@ timeline
 ```
 
 <br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 🏦 Business Analyst
+
 **`Capital One Financial • Illinois, USA • Jan 2025 – Present`**
 
 <img src="https://img.shields.io/badge/🎯_Requirements_Engineering-667EEA?style=flat-square"/> <img src="https://img.shields.io/badge/📊_Fraud_Analytics-764BA2?style=flat-square"/> <img src="https://img.shields.io/badge/⚡_Agile_Delivery-58A6FF?style=flat-square"/>
 
-**Business Analysis & Requirements Management:**
+**Business Analysis & Requirements Management**
 - Led requirements elicitation workshops with business stakeholders, translating complex business needs into comprehensive **BRDs, FRDs, user stories, use cases, and acceptance criteria**, achieving a **30% reduction in scope ambiguity**
 - Performed business and data analysis on **high-volume credit card transaction data** using SQL, Power BI, and Excel, identifying fraud trends and uncovering actionable business insights
 - Evaluated existing business processes through **gap analysis, impact assessment, and workflow analysis**, recommending process improvements that reduced manual customer onboarding efforts by **15%**
 
-**Data Analysis & Fraud Detection:**
+**Data Analysis & Fraud Detection**
 - Analyzed credit card transaction datasets to identify fraud patterns, improving **fraud detection effectiveness by 22%** through data-driven insights
-- Executed **data validation, data reconciliation, ETL verification, and reporting validation** for executive dashboards, maintaining **99% data accuracy** and improving confidence in business reporting and KPI monitoring
+- Executed **data validation, data reconciliation, ETL verification, and reporting validation** for executive dashboards, maintaining **99% data accuracy**
 - Developed **Power BI dashboards, executive reports, and KPI scorecards**, presenting analytical findings and business recommendations to senior leadership
 
-**Agile Collaboration & Delivery:**
+**Agile Collaboration & Delivery**
 - Collaborated with **Product Owners, development, QA, and data engineering teams** throughout the Agile SDLC, managing backlog refinement, sprint planning, requirement prioritization, and change requests
 - Improved **on-time sprint delivery by 18%** through effective backlog management and cross-functional collaboration
 - Coordinated **User Acceptance Testing (UAT)** by preparing test scenarios, validating functional requirements, tracking defects in JIRA, and supporting defect triage, resolving **40+ issues** before deployment
 
-**Documentation & Stakeholder Communication:**
+**Documentation & Stakeholder Communication**
 - Prepared and maintained comprehensive business documentation including BRDs, FRDs, **process flow diagrams, functional specifications, and requirement traceability matrices**
 - Ensured alignment between business objectives and technical implementation through clear, detailed documentation and stakeholder communication
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 💻 Business Systems Analyst
-**`Hexaware Technologies • India
+
+**`Hexaware Technologies • India • Jun 2020 – Sep 2023`**
+
+<img src="https://img.shields.io/badge/📋_Business_Systems_Analysis-1ABC9C?style=flat-square"/> <img src="https://img.shields.io/badge/📈_Tableau_Reporting-E67E22?style=flat-square"/> <img src="https://img.shields.io/badge/🔄_Data_Migration-9B59B6?style=flat-square"/>
+
+**Requirements & Documentation**
+- Gathered, analysed, and documented business requirements through stakeholder workshops, translating them into **BRDs, FRDs, user stories, use cases, and acceptance criteria** to support Agile delivery across **3 concurrent enterprise projects**
+- Created **process flow diagrams, workflow documentation, functional specifications, and business process models** using MS Visio, streamlining approval workflows and reducing turnaround time by **35%**
+
+**Process & Migration Analysis**
+- Performed **gap analysis, impact analysis, and business process analysis** during enterprise system enhancement and data migration initiatives, identifying process improvement opportunities that reduced post-migration defects by **25%**
+- Collaborated with business users, developers, QA, and database teams to support end-to-end SDLC activities, including requirement clarification, backlog refinement, sprint planning, and release readiness
+
+**Data Validation & Reporting**
+- Executed **SQL-based data validation, data reconciliation, and data quality analysis** during system integration and reporting activities, improving reporting reliability and business data accuracy by **20%**
+- Developed **Tableau dashboards, Excel reports, and KPI dashboards** to monitor operational performance, project metrics, and business outcomes, enabling stakeholders to make informed decisions
+
+**Quality Assurance**
+- Supported **User Acceptance Testing (UAT)** by preparing test scenarios and test cases, validating business requirements, and coordinating defect resolution with QA and development teams, reducing post-production defects by **28%**
+
+<br/>
+
+## 🎓 EDUCATION
+
+### Master of Science, Computer and Information Systems
+
+**`Concordia University Wisconsin (CUW) • USA • Oct 2023 – Dec 2025`**
+
+### Bachelor of Technology, Computer Science
+
+**`Vignan Institute of Technology and Science • Telangana, India • Jun 2016 – May 2020`**
+
+<br/>
+
+## 🛠️ TECHNICAL TOOLKIT
+
+| Domain | Tools & Skills |
+|:---|:---|
+| **Business Analysis** | Requirements Elicitation, Gap Analysis, Stakeholder Management, Business Process Analysis, As-Is/To-Be Analysis |
+| **Documentation** | BRD, FRD, User Stories, Use Cases, Acceptance Criteria, Functional Specifications, RTM, UAT Documentation |
+| **Data & Reporting** | SQL, Advanced Excel, Power BI, Tableau, Dashboard Development, KPI Reporting, Data Validation, Root Cause Analysis |
+| **Tools** | JIRA, Confluence, MS Visio, Balsamiq, Trello, MS Project, SQL Server, MySQL, Oracle |
+| **Methodologies** | Agile, Scrum, Waterfall, SDLC, Sprint Planning, Backlog Grooming, Change Management, Risk Analysis |
+| **Cloud** | AWS, Microsoft Azure |
+
+<br/>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:tadisinalavanya@gmail.com"><img src="https://img.shields.io/badge/Email-tadisinalavanya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://lavanyatadisina.com"><img src="https://img.shields.io/badge/Portfolio-lavanyatadisina.com-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:1a1b27,100:0d1117&height=120&section=footer" />
+
+</div>
